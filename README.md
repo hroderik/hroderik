@@ -4,7 +4,7 @@
 - 👨‍💻 aka Rodrigo Rodrigues  
   
 
-- 🌐 I'm currently studying front-end  
+- 🌐 I'm currently studying front-end and back-end
   
 
 - 🔄 Degree in Industrial Automation  
